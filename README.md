@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**yuvrajgupta1512002-pixel/yuvrajgupta1512002-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hi, I'm Akarshit Gupta 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Full Stack Developer | Tech Enthusiast
+
+Building modern digital experiences through code.
+
+[GitHub](https://github.com/yuvrajgupta1512002-pixel)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- I'm Akarshit Gupta.
+- Aspiring Full Stack Developer.
+- Interested in Web Development and UI Design.
+- Learning new technologies and building projects.
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+
+## 🚀 Featured Projects
+
+- Live-Weather
+- MY-PROFILE
+- DEMO-1
+
+## 🎯 My Goal
+
+To build useful, creative and professional digital products.
+
+---
+
+<div align="center">
+
+### BUILD • LEARN • CREATE
+
+</div>
